@@ -6,6 +6,7 @@ CREATE TABLE blogs (
     title TEXT NOT NULL,
     body TEXT NOT NULL,
     is_show BOOLEAN NOT NULL DEFAULT FALSE,
+    release_date date NOT NULL DEFAULT NOW(),
     created_at timestamp(0) NOT NULL DEFAULT NOW(),
     updated_at timestamp(0),
     deleted_at timestamp(0)
