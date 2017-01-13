@@ -1,3 +1,3 @@
 development:
     driver: postgres
-    open: user=postgres dbname=blog host=172.17.0.2 port=5432 sslmode=disable password=postgres
+    open: user=bihktbuzhvkggl dbname=dfqft5hcsoc3et host=ec2-54-163-234-4.compute-1.amazonaws.com port=5432 sslmode=disable password=a003ae797ede50e2b3b2785a8acd13f1ab47bcd74d77fd217d91cd296c067d3a
